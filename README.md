@@ -1,2 +1,4 @@
 # MyVector_Data_Structure
-Section b project
+
+
+It contains a growable array of objects which can be accessed as integer index.
